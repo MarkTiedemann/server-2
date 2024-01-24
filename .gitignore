@@ -1,0 +1,4 @@
+dependencies
+.vscode/settings.json
+source/esbuild.json
+*.exe

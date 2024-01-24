@@ -1,0 +1,16 @@
+{
+	"html": "text/html",
+	"js": "text/javascript",
+	"mjs": "text/javascript",
+	"css": "text/css",
+	"jpg": "image/jpeg",
+	"jpeg": "image/jpeg",
+	"png": "image/png",
+	"webp": "image/webp",
+	"gif": "image/gif",
+	"ico": "image/x-icon",
+	"svg": "image/svg+xml",
+	"woff": "font/woff",
+	"woff2": "font/woff2",
+	"json": "application/json"
+}
