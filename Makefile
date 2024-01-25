@@ -16,6 +16,4 @@ source\esbuild.json: $(esbuild.exe)
 	$(call deno,run -A build/build-esbuild.json.ts $(esbuild.version) $(esbuild.exe))
 
 make: .vscode\settings.json source\esbuild.json
-	$(call deno,run -A source\server.ts)
-#$(call deno,compile -A source\server.ts)
-#.\server.exe
+	$(call deno,compile -A source\server.ts)
